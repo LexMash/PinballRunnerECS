@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 350959022fcceaf42bd87b4483a59354, type: 3}
+  m_Name: BallData
+  m_EditorClassIdentifier: 
+  <View>k__BackingField: {fileID: -2120409197859581095, guid: 48b8ce78da25ecc428dfc7323c5c75ac,
+    type: 3}
+  <ForwardVelocity>k__BackingField: 0.1
+  <StrafeVelocity>k__BackingField: 7
+  <DashDistance>k__BackingField: 3
+  <DashTime>k__BackingField: 0.2
+  <DashingTime>k__BackingField: 0.2
+  <DashCoolDownTime>k__BackingField: 1
