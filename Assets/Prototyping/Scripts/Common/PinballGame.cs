@@ -4,16 +4,8 @@ namespace PinBallRunner.Prototyping.Scripts.Common
 {
     public class PinballGame
     {
-        public GameConfiguration Configuration { get; private set; }
-
-        public PinballGame(GameConfiguration configuration)
+        public PinballGame()
         {
-            Configuration = configuration;
-        }
-
-        public void Run()
-        {
-
         }
     }
 }

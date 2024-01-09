@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 81fd23facad292f48a7457ad096846a3
+  m_SerializeEntries:
+  - m_GUID: bc98f6d6de446cf46a67752f99dc7325
+    m_Address: BallConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b89ac9729e0c3774bac54f32fa9ceeba
+    m_Address: CameraConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: becdddf7a1497ca4c952994c2e64073b
+    m_Address: MenuData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dcb7947815812d84faf94e68345ab163
+    m_Address: LevelGeneratorData
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5a916038167553f4aa231eba942c7ea0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5291aee7ae99a3d4fbb8a1dbada9116f, type: 2}
+    - {fileID: 11400000, guid: daab0a12886a7ed489f6fe817366ac56, type: 2}
